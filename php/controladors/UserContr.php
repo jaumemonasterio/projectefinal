@@ -4,7 +4,7 @@
 class UserContr extends User
 {
 
-    use validacions;
+    use Validacions;
     private $username;
 
     private $email;
